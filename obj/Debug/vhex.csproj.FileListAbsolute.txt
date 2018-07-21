@@ -1,0 +1,7 @@
+C:\Users\Dane\source\repos\vhex\vhex\bin\Debug\vhex.exe.config
+C:\Users\Dane\source\repos\vhex\vhex\bin\Debug\vhex.exe
+C:\Users\Dane\source\repos\vhex\vhex\bin\Debug\vhex.pdb
+C:\Users\Dane\source\repos\vhex\vhex\obj\Debug\vhex.csprojAssemblyReference.cache
+C:\Users\Dane\source\repos\vhex\vhex\obj\Debug\vhex.csproj.CoreCompileInputs.cache
+C:\Users\Dane\source\repos\vhex\vhex\obj\Debug\vhex.exe
+C:\Users\Dane\source\repos\vhex\vhex\obj\Debug\vhex.pdb
